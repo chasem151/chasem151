@@ -1,8 +1,4 @@
 ### Hey there 👋
-
-<!--
-**chasem151/chasem151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Formal Training awaiting a full-time sponsorship:
 - [✔️] Computer Engineering with a concentration in Machine Learning alumni from Boston University
 - [✔️] Part-time IT contractor
@@ -16,5 +12,3 @@ Formal Training awaiting a full-time sponsorship:
 - 🤔 I am looking for help mainly with seeking a full-time role!
 - 💬 Ask me about music!
 - 📫 Work cell & email: +1 774-245-5858, chasemai@amazon.com
-
--->
