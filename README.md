@@ -1,4 +1,4 @@
-### Hey there 👋
+
 Formal Training awaiting a full-time sponsorship:
 - [✔️] Computer Engineering with a concentration in Machine Learning alumni from Boston University
 - [✔️] Part-time IT contractor
