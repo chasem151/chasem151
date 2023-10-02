@@ -11,4 +11,3 @@ Formal Training awaiting a full-time sponsorship:
 - 🔄 Looking to collaborate on defensive security, applied machine learning, and statistics
 - 🤔 I am looking for help mainly with seeking a full-time role!
 - 💬 Ask me about music!
-- 📫 Work cell & email: +1 774-245-5858, chasemai@amazon.com
